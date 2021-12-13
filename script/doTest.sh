@@ -1,0 +1,1 @@
+curl -X POST http://localhost:8080/data -H gorm.tenantId:t1 -H Content-Type:text/plain -d "testdata"
